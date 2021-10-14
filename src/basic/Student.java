@@ -11,6 +11,10 @@ public class Student {
 	public void welcomeMessage() {
 		System.out.println("Welcome "+name+", to the college");
 	}
+	
+	public void test() {
+		System.out.println("from test method");
+	}
 
 	public static void main(String[] args) {
 		Student obj = new Student();
