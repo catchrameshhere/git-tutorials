@@ -7,4 +7,7 @@ public class HelloWorld {
 
 	}
 
+	public void gabbyMethod() {
+		System.out.println("from Gabby");
+	}
 }
